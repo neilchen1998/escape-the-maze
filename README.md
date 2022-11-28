@@ -19,24 +19,23 @@ The environments (mazes) can be installed by using the following command:
 We use 7 different mazes in total to test our path finding algorithm.
 Here are some of the mazes that we use:
 
-- doorkey-5x5-normal
-
 <picture>
   <img src="https://github.com/neilchen1998/escape-the-maze/blob/main/imgs/doorkey-5x5-normal.png" width="300" height="250">
 </picture>
 
-- doorkey-6x6-direct
+- doorkey-5x5-normal
 
 <picture>
   <img src="https://github.com/neilchen1998/escape-the-maze/blob/main/imgs/doorkey-6x6-direct.png" width="300" height="250">
 </picture>
 
-- doorkey-8x8-shortcut
+- doorkey-6x6-direct
 
 <picture>
   <img src="https://github.com/neilchen1998/escape-the-maze/blob/main/imgs/doorkey-8x8-shortcut.png" width="300" height="250">
 </picture>
 
+- doorkey-8x8-shortcut
 
 # Approaches
 
