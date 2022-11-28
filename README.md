@@ -43,6 +43,12 @@ In this project, we use dynamic programming to solve the shortest path problems.
 
 # Results
 
+<picture>
+  <img src="https://github.com/neilchen1998/escape-the-maze/blob/main/result-example-gif.gif" width="300" height="250">
+</picture>
+
+- One of the results
+
 | Maze | Steps | Cost |
 | ------------- | ------------- | -------- |
 | 5x5-normal  | 12  | 12 |
