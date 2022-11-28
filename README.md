@@ -40,7 +40,19 @@ Here are some of the mazes that we use:
 
 # Approaches
 
+In this project, we use dynamic programming to solve the shortest path problems.
+
 # Results
+
+| Maze | Steps | Cost |
+| ------------- | ------------- | -------- |
+| 5x5-normal  | 12  | 12 |
+| 6x6-direct  | 4 |4 |
+| 6x6-normal  | 15 |15 |
+| 6x6-shortcut  | 8 |8 |
+| 8x8-direct  | 4 |4 |
+| 8x8-normal  | 28 |28 |
+| 8x8-shortcut | 12 | 12 |
 
 # Reference
 
